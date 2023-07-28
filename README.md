@@ -1,0 +1,2 @@
+# install_os_on_serial
+一个在串口终端安装操作系统的工具
